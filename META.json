@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Sixeight/Acme-Ane/issues"
+      },
+      "homepage" : "https://github.com/Sixeight/Acme-Ane",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/Sixeight/Acme-Ane.git",
+         "web" : "https://github.com/Sixeight/Acme-Ane"
+      }
+   },
    "version" : "0.01"
 }

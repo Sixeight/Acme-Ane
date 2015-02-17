@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Sixeight/Acme-Ane.svg?branch=master)](https://travis-ci.org/Sixeight/Acme-Ane)
 # NAME
 
 Acme::Ane - Ane means big sister.
