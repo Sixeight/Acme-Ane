@@ -1,14 +1,38 @@
 # NAME
 
-Acme::Ane - It's new $module
+Acme::Ane - Ane means big sister.
 
 # SYNOPSIS
 
     use Acme::Ane;
 
+    my $ane = Acme::Ane->new($your_object)
+    if ($ane->is_ane) {
+      print "$ane is ane\n";
+    }
+
+Other way
+
+    use Acme::Ane "ane";
+
+    my $ane = ane $your_object
+
 # DESCRIPTION
 
-Acme::Ane is ...
+Acme::Ane is joke module for Ane lover.
+
+## Exports
+
+The following functions are exported only by request.
+
+    ane
+
+# METHODS
+
+- is\_ane
+
+
+    Examin that the objec is ane.
 
 # LICENSE
 
